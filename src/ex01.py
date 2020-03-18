@@ -3,7 +3,7 @@ import turtle
 
 t = turtle.Turtle()
 
-print("파이썬1")
+print("파이썬")
 
 t.forward(100)
 
